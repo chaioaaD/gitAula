@@ -1,5 +1,12 @@
 alguem me ajuda a pagar o agiota..
 quero férias...
+<<<<<<< HEAD
 nossa... POR FAVOR
 gente pagode clandestino sab 14hrs eu ouvi pds???
 Caloooooooooooooooooooooooooooor
+=======
+nossa... Pf FAVOR
+gente pagode clandestino sab 14hrs
+Cal123r
+mt quente
+>>>>>>> 7412f321de1935b04581d1fbe4c782edcaae71a1
